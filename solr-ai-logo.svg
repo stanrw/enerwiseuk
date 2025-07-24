@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="60" viewBox="0 0 160 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .solr-text { fill: #ffffff; font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; }
+      .solr-bg { fill: #1f2937; }
+    </style>
+  </defs>
+  
+  <!-- Background rectangles for each letter -->
+  <rect x="5" y="10" width="25" height="25" class="solr-bg" rx="2"/>
+  <rect x="35" y="10" width="25" height="25" class="solr-bg" rx="2"/>
+  <rect x="65" y="10" width="25" height="25" class="solr-bg" rx="2"/>
+  <rect x="95" y="10" width="25" height="25" class="solr-bg" rx="2"/>
+  
+  <rect x="35" y="40" width="25" height="15" class="solr-bg" rx="2"/>
+  <rect x="65" y="40" width="25" height="15" class="solr-bg" rx="2"/>
+  
+  <!-- SOLR letters -->
+  <text x="17.5" y="28" font-size="16" class="solr-text" text-anchor="middle">S</text>
+  <text x="47.5" y="28" font-size="16" class="solr-text" text-anchor="middle">O</text>
+  <text x="77.5" y="28" font-size="16" class="solr-text" text-anchor="middle">L</text>
+  <text x="107.5" y="28" font-size="16" class="solr-text" text-anchor="middle">R</text>
+  
+  <!-- AI letters -->
+  <text x="47.5" y="50" font-size="10" class="solr-text" text-anchor="middle">A</text>
+  <text x="77.5" y="50" font-size="10" class="solr-text" text-anchor="middle">I</text>
+</svg>

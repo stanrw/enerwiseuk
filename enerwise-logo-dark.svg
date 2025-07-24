@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180" height="44" viewBox="0 0 180 44" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .ener-text { 
+        fill: #ffffff; 
+        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; 
+        font-weight: 700; 
+      }
+      .wise-text { 
+        fill: #6ee7b7; 
+        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; 
+        font-weight: 700; 
+      }
+    </style>
+  </defs>
+  
+  <!-- Exact replica matching current site font stack -->
+  <text x="0" y="32" font-size="36" class="ener-text">Ener</text>
+  <text x="89" y="32" font-size="36" class="wise-text">wise</text>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .ener-text { fill: #1f2937; font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; }
+      .wise-text { fill: #10b981; font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; }
+    </style>
+  </defs>
+  
+  <!-- Compact logo text -->
+  <text x="5" y="28" font-size="20" class="ener-text">Ener</text>
+  <text x="58" y="28" font-size="20" class="wise-text">wise</text>
+</svg>

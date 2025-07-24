@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="energyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Circular background -->
+  <circle cx="24" cy="24" r="22" fill="url(#energyGrad)" stroke="#ffffff" stroke-width="2"/>
+  
+  <!-- Energy symbol - stylized "E" -->
+  <path d="M 14 14 L 14 34 L 32 34 M 14 24 L 28 24 M 14 14 L 30 14" 
+        stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <!-- Energy wave accent -->
+  <path d="M 16 38 Q 20 36 24 38 T 32 38" 
+        stroke="#ffffff" stroke-width="2" fill="none" opacity="0.8"/>
+</svg>

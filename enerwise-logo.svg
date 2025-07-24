@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .ener-text { fill: #1f2937; font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; }
+      .wise-text { fill: #10b981; font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; }
+    </style>
+  </defs>
+  
+  <!-- Main logo text -->
+  <text x="10" y="40" font-size="32" class="ener-text">Ener</text>
+  <text x="95" y="40" font-size="32" class="wise-text">wise</text>
+  
+  <!-- Optional energy wave accent -->
+  <path d="M 5 50 Q 25 45 45 50 T 85 50" stroke="#10b981" stroke-width="2" fill="none" opacity="0.6"/>
+</svg>
